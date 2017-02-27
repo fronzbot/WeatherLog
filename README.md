@@ -1,0 +1,2 @@
+# WeatherLog
+Weather logging utility
